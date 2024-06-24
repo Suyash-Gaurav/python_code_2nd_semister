@@ -1,0 +1,4 @@
+input a=("enter the number")
+input b=("enter the number")
+
+ print {sum =("a+b")}
